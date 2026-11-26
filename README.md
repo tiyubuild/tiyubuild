@@ -2,7 +2,8 @@
   GitHub profile README — Wojciech Janeczek (@tiyubuild)
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f5bd4,100:61dafb&height=210&section=header&text=Wojciech%20Janeczek&fontSize=52&fontColor=ffffff&desc=Game-Server%20%26%20Backend%20Developer&descSize=20&descAlignY=66" width="100%" />
+<h1 align="center">Wojciech Janeczek</h1>
+<p align="center"><b>Game-Server &amp; Backend Developer</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=620&lines=8%2C000%2B+hours+on+FiveM+%2F+GTA;Game+logic%2C+UIs%2C+Discord+bots%2C+databases;Currently+building+GTA+6+roleplay+tooling" alt="typing" />
